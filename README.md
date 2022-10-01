@@ -1,2 +1,2 @@
 # git-tutorial
-Git tutorial
+This repo is a tutorial on Git and Github.
